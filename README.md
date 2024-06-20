@@ -13,7 +13,15 @@ Favorites: Users can save their favorite recipes, which are stored using Airtabl
 
 <img width="1466" alt="Screenshot 2024-06-21 at 1 51 37 AM" src="https://github.com/Thazinphoo22/Recipe-Quest/assets/169599607/33d685c9-ecf6-4312-8398-c5f6a96c67cd">
 
+
+
+
+
 <img width="1444" alt="Screenshot 2024-06-21 at 1 52 03 AM" src="https://github.com/Thazinphoo22/Recipe-Quest/assets/169599607/e33ab9cb-e0db-47c8-8bde-9080de085709">
+
+
+
+
 
 <img width="1456" alt="Screenshot 2024-06-21 at 1 52 24 AM" src="https://github.com/Thazinphoo22/Recipe-Quest/assets/169599607/b649ec2a-5969-43aa-8d9e-e7a22c9c67a8">
 
