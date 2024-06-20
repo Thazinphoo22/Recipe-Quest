@@ -1,4 +1,4 @@
-<img width="1466" alt="Screenshot 2024-06-21 at 1 51 37 AM" src="https://github.com/Thazinphoo22/Recipe-Quest/assets/169599607/3b557dc8-e173-49ca-92c9-1d682c872f6e">***Recipe Quest***
+***Recipe Quest***
 Recipe Quest - Your Ultimate Recipe Companion
 
 Recipe Quest is an application designed to help users discover, save, and enjoy delicious recipes from around the world. Whether you're a beginner cook or a seasoned chef, Recipe Quest provides a platform to explore new culinary adventures and favorite dishes.
