@@ -24,7 +24,7 @@ React JS, HTML, CSS ,Airtable API, Edamam Recipe Search API
 **Getting Stated**
 Project Planning Board url: https://trello.com/b/734Vi6iF/project2
 
-**Next Steps**
+**Next Steps:**
 As a user, I want to see nutritional information for recipes, because I want to make healthy choices.
 As a user, I want to see Health Labels because we can view nutritional content and potential health impacts of a product.
 As a user, I want to implement user authentication to allow users to have personalized favorite lists.
