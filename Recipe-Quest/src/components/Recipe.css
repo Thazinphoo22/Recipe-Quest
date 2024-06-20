@@ -1,0 +1,48 @@
+.recipe {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-sizing: border-box;
+}
+
+.image-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  height: 250px;
+  margin-bottom: 10px;
+}
+
+.recipe-image {
+  width: 100%;
+  height: 100%;
+  object-fit: contain; /* Ensuring the full image is visible */
+  border-radius: 5px;
+}
+
+.recipe-label {
+  font-size: 1.3rem;
+  font-weight: bold;
+  margin: 10px 0;
+  font-family: "Playwrite ES", cursive;
+}
+
+.recipe button {
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+  font-family: "Playwrite ES", cursive;
+  margin-top: 10px;
+  cursor: pointer;
+  border-radius: 25px;
+}

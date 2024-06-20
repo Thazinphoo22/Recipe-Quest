@@ -1,0 +1,22 @@
+.about {
+  max-width: 800px;
+  margin: 100px auto;
+  padding: 20px;
+  text-align: center;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  font-family: "Playwrite PL", cursive;
+}
+
+.about h2 {
+  color: #333;
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+
+.about p {
+  color: #555;
+  font-size: 1.2em;
+  line-height: 1.6;
+}

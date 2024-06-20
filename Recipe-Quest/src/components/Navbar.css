@@ -1,0 +1,22 @@
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  background-color: black;
+  padding: 10px;
+  font-family: "Playwrite ES", cursive;
+}
+
+.navbar .nav-link {
+  color: white;
+  text-decoration: none;
+  padding: 8px;
+  border-radius: 4px;
+}
+
+.navbar .nav-link:hover {
+  background-color: #555;
+}
+
+.navbar .active {
+  background-color: #666;
+}

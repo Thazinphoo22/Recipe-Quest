@@ -1,0 +1,54 @@
+.favorites {
+  margin: 20px;
+  padding: 10px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+
+.favorite {
+  border: 1px solid white;
+  background-color: whitesmoke;
+  padding: 10px;
+  display: flex;
+  font-family: "Playwrite ES", cursive;
+}
+
+.favorite img {
+  max-width: 100%;
+  height: auto;
+  margin-right: 20px;
+}
+
+.favorite-content {
+  flex: 1;
+}
+
+.favorite h3 {
+  color: black;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.favorite p a {
+  color: green;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.favorite p a:hover {
+  text-decoration: underline;
+}
+
+.favorite button {
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.favorite button:hover {
+  background-color: red;
+}

@@ -1,0 +1,74 @@
+.full-recipe {
+  display: flex;
+  flex-wrap: wrap;
+  width: 75%;
+  margin: 50px auto;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  background-color: #f0f0f0;
+  position: relative;
+  font-family: "Playwrite ES", cursive;
+}
+
+.full-recipe img {
+  flex: 1;
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.full-recipe .details {
+  flex: 1;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.full-recipe h2 {
+  color: #333;
+  font-size: 28px;
+  margin-top: 0;
+}
+
+.full-recipe h3 {
+  color: #333;
+  font-size: 22px;
+  margin-top: 0;
+}
+
+.full-recipe ul {
+  list-style-type: disc;
+  padding-left: 20px;
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+
+.full-recipe p a {
+  color: green;
+  text-decoration: none;
+  text-underline-position: below;
+}
+
+.full-recipe p a:hover {
+  text-decoration: underline;
+}
+
+.full-recipe .buttons {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+}
+
+.full-recipe button {
+  font-family: "Playwrite ES", cursive;
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 10px 18px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.full-recipe button:hover {
+  background-color: green;
+}
