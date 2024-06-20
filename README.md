@@ -7,7 +7,7 @@ Recipe Quest is an application designed to help users discover, save, and enjoy 
 
 **Features of the App**
 Search Bar: Allows users to search for recipes using keywords. The app fetches data from the Edamam Recipe Search API.
-Recipe List: Displays search results in this layout, each showing a recipe card with an image, title and view recipe.
+Recipe List: Displays search results in this layout, each showing a recipe card with an image, title and view recipe button.
 Full Recipe View shows a detailed recipe with recipe's label, image, ingredients, cooking instructions fetched from the API, close button to go back to home page and add to favorites button to add favorite recipes to Favorites Page.
 Favorites: Users can save their favorite recipes, which are stored using Airtable API and can also remove favorite recipes.
 
