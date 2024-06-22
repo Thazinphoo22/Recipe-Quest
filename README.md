@@ -13,7 +13,7 @@ For project planning and progress, visit our public board [here](https://trello.
 Search Bar: Allows users to search for recipes using keywords like "chicken" or "o". This app fetches data from the Edamam Recipe Search API.
 Recipe List: Displays search results in this layout, each showing a recipe with an image, title and view recipe button.
 
-***Full recipe Pop Up***
+### Full recipe Pop Up
 <img width="1444" alt="Screenshot 2024-06-21 at 1 52 03 AM" src="https://github.com/Thazinphoo22/Recipe-Quest/assets/169599607/e33ab9cb-e0db-47c8-8bde-9080de085709">
 Full Recipe View shows a detailed recipe with recipe's label, image, ingredients, cooking instructions fetched from the API, "close" button to go back to home page and "save" button to add favorite recipes to Favorites Page.
 
