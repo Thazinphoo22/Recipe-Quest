@@ -23,16 +23,18 @@ Full Recipe View shows a detailed recipe with recipe's label, image, ingredients
 Favorites: Users can save their favorite recipes, which are stored using Airtable API and can also remove favorite recipes.
 
 ## Technologies Used
-React.js
-HTML 
-CSS 
-Edamam API
-Airtable API
-Postman
-Docker
 
-**Next Steps:**
-As a user, I want to see nutritional information for recipes, because I want to make healthy choices.
-As a user, I want to see Health Labels because we can view nutritional content and potential health impacts of a product.
-As a user, I want to implement user authentication to allow users to have personalized favorite lists.
-As a user, I want to create a community feature for users to share their own recipes and tips.
+* React.js
+* HTML 
+* CSS 
+* Edamam API
+* Airtable API
+* Postman
+* Docker
+
+## Next Steps
+* Add nutritional information for recipes to help users make healthy choices.
+* Include health labels to provide insights into the nutritional content and potential health impacts of recipes.
+* Implement user authentication to allow users to have personalized favorite lists.
+* Create a community feature for users to share their own recipes and tips.
+
