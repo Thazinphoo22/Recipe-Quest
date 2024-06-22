@@ -2,7 +2,7 @@
 
 Welcome to Recipe Quest, your ultimate culinary companion! This application is designed to help you discover, save, and share delicious recipes with ease. Whether you're a seasoned chef or a home cook, Recipe Quest provides a platform to explore new dishes and enhance your cooking journey.
 
-For project planning and progress, visit our public board [here],(https://trello.com/b/734Vi6iF/project2).
+For project planning and progress, visit our public board [here](https://trello.com/b/734Vi6iF/project2).
 
 ## Features of the App
 ### Home Page
